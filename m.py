@@ -699,7 +699,7 @@ def __Old1__():
     linex()
     limit=input(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mSELECT \33[38;5;160m▶ \033[1;97m')
     linex()
-    year_code = '10000'
+    year_code = '100000'
     for i in range(int(limit)):
     	data=str(random.choice(range(1000000000,1999999999)));user.append(data)
     with tred(max_workers=30) as jihad:
@@ -720,7 +720,7 @@ def __Old2__():
     linex()
     limit=input(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mSELECT \33[38;5;160m▶ \033[1;97m')
     linex()
-    year_code = '10000'
+    year_code = '100000'
     for i in range(int(limit)):
     	data=str(random.choice(range(1000000000,1999999999)));user.append(data)
     with tred(max_workers=30) as jihad:
@@ -740,7 +740,7 @@ def __Old3__():
     linex()
     limit=input(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mSELECT \33[38;5;160m▶ \033[1;97m')
     linex()
-    year_code = '10000'
+    year_code = '100000'
     for i in range(int(limit)):
     	data=str(random.choice(range(1000000000,1999999999)));user.append(data)
     with tred(max_workers=30) as jihad:
@@ -760,7 +760,7 @@ def __Old4__():
     linex()
     limit=input(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mSELECT \33[38;5;160m▶ \033[1;97m')
     linex()
-    year_code = '10000'
+    year_code = '100000'
     for i in range(int(limit)):
     	data=str(random.choice(range(1000000000,1999999999)));user.append(data)
     with tred(max_workers=30) as jihad:
