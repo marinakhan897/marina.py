@@ -597,9 +597,6 @@ for xd in range(10000):
    l='JioBrowser/1.4.7 Chrome/69.0.3497.100 Mobile Safari/537.36'
    uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
    ugen.append(uaku2)
-
-
-
 def linex():print(f'\r\33[38;5;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
 def line():print(f'\r\n\33[38;5;37m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
 
@@ -665,7 +662,7 @@ def main():
 			os.system("xdg-open https://chat.whatsapp.com/HBBWmgTmpNl7OvG2MCpQtR")
 			exit()
 	elif baloch in ["1", "01"]:
-			os.system("xdg-open https://youtube.com/@chandtricker?si=BFwhJyxOUZTIDSpk")
+			os.system("xdg-open https://youtube.com/@marinatricker?si=EgOeA57JQUQmsov5")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;37m    Type Your Channel Name")
@@ -702,7 +699,7 @@ def __Old1__():
     linex()
     limit=input(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mSELECT \33[38;5;160m▶ \033[1;97m')
     linex()
-    year_code = '100000'
+    year_code = '99999'
     for i in range(int(limit)):
     	data=str(random.choice(range(1000000000,1999999999)));user.append(data)
     with tred(max_workers=30) as jihad:
@@ -723,7 +720,7 @@ def __Old2__():
     linex()
     limit=input(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mSELECT \33[38;5;160m▶ \033[1;97m')
     linex()
-    year_code = '10000'
+    year_code = '20000'
     for i in range(int(limit)):
     	data=str(random.choice(range(1000000000,1999999999)));user.append(data)
     with tred(max_workers=30) as jihad:
@@ -743,7 +740,7 @@ def __Old3__():
     linex()
     limit=input(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mSELECT \33[38;5;160m▶ \033[1;97m')
     linex()
-    year_code = '10000'
+    year_code = '20000'
     for i in range(int(limit)):
     	data=str(random.choice(range(1000000000,1999999999)));user.append(data)
     with tred(max_workers=30) as jihad:
@@ -763,7 +760,7 @@ def __Old4__():
     linex()
     limit=input(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mSELECT \33[38;5;160m▶ \033[1;97m')
     linex()
-    year_code = '10000'
+    year_code = '20000'
     for i in range(int(limit)):
     	data=str(random.choice(range(1000000000,1999999999)));user.append(data)
     with tred(max_workers=30) as jihad:
@@ -801,7 +798,7 @@ def login1(uid):
             'advertiser_id':str(uuid.uuid4()),
             'currently_logged_in_userid': '0', 
             'locale': 'en_US',
-            'client_country_code': 'US', 
+            'client_country_code': 'UK', 
             'method': 'auth.login', 
             'fb_api_req_friendly_name': 'authenticate', 
             'fb_api_caller_class': 'com.facebook.account.login.protocol.Fb4aAuthHandler', 
