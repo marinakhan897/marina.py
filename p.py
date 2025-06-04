@@ -1310,7 +1310,7 @@ class Main:
 
 
 def Subscraption():
-	key1=open('/data/data/com.termux/files/usr/bin/.mrMARINA -cov', 'r').read()
+	key1=open('/data/data/com.termux/files/usr/bin/.mrso4av -cov', 'r').read()
 	clear()
 	print(logo)
 	r1=requests.get("https://github.com/Sourav9106/Tiwari/blob/main/Tiwari").text
