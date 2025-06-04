@@ -408,8 +408,6 @@ class Main:
 		os.system("clear")
 		print(logo)
 		print("")
-		print("\033[1;36m     FEEL THE POWER OF MARINA
-		print("")
 		print("\033[1;32m [1] First You COPY TOKEN AND SEND TO MARINA")
 		print("\033[1;33m [2] Exit")
 		print("")
