@@ -631,13 +631,13 @@ logo ="""\033[1;37mWELCOME TO MARINA COMMAND
  
 \033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
 \033[1;39m━▷ \033[0;91m𝙊𝙒𝙉𝙀𝙍    \033[1;39m◈✙◈\033[1;33m MARINA KHAN
-\033[1;39m━▷ \033[0;91m𝙏𝙀𝘼𝙈     \033[1;39m◈✙◈\033[1;31m TEAM OF IEI
+\033[1;39m━▷ \033[0;91m𝙏𝙀𝘼𝙈     \033[1;39m◈✙◈\033[1;31m TEAM OF ATF
 \033[1;39m━▷ \033[0;91m𝙔𝙊𝙐𝙏𝙐𝘽𝙀  \033[1;39m◈✙◈ \033[1;32mMARINA TRICKER
 \033[1;39m━▷ \033[0;91m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆 \033[1;39m◈✙◈ \033[1;33mfb.com/gamerqueen3632
-\033[1;39m━▷ \033[0;91m𝙁𝘽 𝙂𝙍𝙊𝙐𝙋 \033[1;39m◈✙◈ \033[1;34mMARINA TRICKeS ZONE
+\033[1;39m━▷ \033[0;91m𝙁𝘽 𝙂𝙍𝙊𝙐𝙋 \033[1;39m◈✙◈ \033[1;34mAll Tricks Zone 
 \033[1;39m━▷ \033[0;91m𝙎𝘼𝙏𝙐𝙏𝘼𝙎  \033[1;39m◈✙◈ \033[0;92mFREE AND ENJOY
-\033[1;39m━▷ \033[0;91m𝙑𝙀𝙍𝙎𝙄𝙊𝙉  \033[1;39m◈✙◈ \033[1;37m9.0.0
-\033[1;39m━▷ \033[1;36m𝙁𝙀𝙀𝙇 𝙏𝙃𝙀 𝙋𝙊𝙒𝙀𝙍 𝙊𝙁 𝙈𝘼𝙍𝙄𝙉𝘼 𝙊𝙒𝙉𝙀𝙍 OF IEI TEAM
+\033[1;39m━▷ \033[0;91m𝙑𝙀𝙍𝙎𝙄𝙊𝙉  \033[1;39m◈✙◈ \033[1;37m0.1
+\033[1;39m━▷ \033[1;36m𝙁𝙀𝙀𝙇 𝙏𝙃𝙀 𝙋𝙊𝙒𝙀𝙍 𝙊𝙁 𝙈𝘼𝙍𝙄𝙉𝘼 𝙊𝙒𝙉𝙀𝙍
 \033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●"""
 
 
@@ -700,13 +700,13 @@ def __Old1__():
     linex()
     limit=input(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mSELECT \33[38;5;160m▶ \033[1;97m')
     linex()
-    year_code = '40000'
+    year_code = '100000'
     for i in range(int(limit)):
     	data=str(random.choice(range(1000000000,1999999999)));user.append(data)
     with tred(max_workers=30) as jihad:
         clear()
         print(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mTOTAL ID \33[38;5;160m▶ \033[1;97m{limit}')
-        print(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mIF YOU DIDNOT RECIEVE ANY RESULT THAN OFF/ON AIRPLAIM MODE')
+        print(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mUSED AIRPLANE MODE AFTER 5 MINUTE ')
         linex()
         for mal in user:
         	uid=year_code+mal
@@ -727,7 +727,7 @@ def __Old2__():
     with tred(max_workers=30) as jihad:
         clear()
         print(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mTOTAL ID \33[38;5;160m▶ \033[1;97m{limit}')
-        print(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mIf YOU DIDNOT RECIEVE ANY RESULT THAN OFF/ON AIRPLAIM MODE')
+        print(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mUSED AIRPLANE MODE AFTER 5 MINUTE ')
         linex()
         for mal in user:
             uid=year_code+mal
@@ -741,13 +741,13 @@ def __Old3__():
     linex()
     limit=input(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mSELECT \33[38;5;160m▶ \033[1;97m')
     linex()
-    year_code = '400000'
+    year_code = '10000'
     for i in range(int(limit)):
     	data=str(random.choice(range(1000000000,1999999999)));user.append(data)
     with tred(max_workers=30) as jihad:
         clear()
         print(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mTOTAL ID \33[38;5;160m▶ \033[1;97m{limit}')
-        print(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mIF YOU DIDNOT RECIEVE ANY RESULT THAN OFF/ON AIRPLAIM MODE'')
+        print(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mUSED AIRPLANE MODE AFTER 5 MINUTE ')
         linex()
         for mal in user:
             uid=year_code+mal
@@ -761,7 +761,7 @@ def __Old4__():
     linex()
     limit=input(f'\33[38;5;160m[\033[1;97m🩶\33[38;5;160m] \033[1;97mSELECT \33[38;5;160m▶ \033[1;97m')
     linex()
-    year_code = '40000'
+    year_code = '10000'
     for i in range(int(limit)):
     	data=str(random.choice(range(1000000000,1999999999)));user.append(data)
     with tred(max_workers=30) as jihad:
@@ -799,7 +799,7 @@ def login1(uid):
             'advertiser_id':str(uuid.uuid4()),
             'currently_logged_in_userid': '0', 
             'locale': 'en_US',
-            'client_country_code': 'US'PAK;INDIA;UK;JAPAN;SERILANKA;BANGLADESH; 
+            'client_country_code': 'US', 
             'method': 'auth.login', 
             'fb_api_req_friendly_name': 'authenticate', 
             'fb_api_caller_class': 'com.facebook.account.login.protocol.Fb4aAuthHandler', 
@@ -860,7 +860,7 @@ def login2(uid):
             'advertiser_id':str(uuid.uuid4()),
             'currently_logged_in_userid': '0', 
             'locale': 'en_US',
-            'client_country_code': 'US',PAK;INDIA;UK;JAPAN;SERILANKA;BANGLADESH;  
+            'client_country_code': 'US', 
             'method': 'auth.login', 
             'fb_api_req_friendly_name': 'authenticate', 
             'fb_api_caller_class': 'com.facebook.account.login.protocol.Fb4aAuthHandler', 
@@ -921,7 +921,7 @@ def login3(uid):
             'advertiser_id':str(uuid.uuid4()),
             'currently_logged_in_userid': '0', 
             'locale': 'en_US',
-            'client_country_code': 'US',PAK;INDIA;UK;JAPAN;SERILANKA;BANGLADESH;  
+            'client_country_code': 'US', 
             'method': 'auth.login', 
             'fb_api_req_friendly_name': 'authenticate', 
             'fb_api_caller_class': 'com.facebook.account.login.protocol.Fb4aAuthHandler', 
@@ -982,7 +982,7 @@ def login4(uid):
             'advertiser_id':str(uuid.uuid4()),
             'currently_logged_in_userid': '0', 
             'locale': 'en_US',
-            'client_country_code': 'US', PAK;INDIA;UK;JAPAN;SERILANKA;BANGLADESH; 
+            'client_country_code': 'US', 
             'method': 'auth.login', 
             'fb_api_req_friendly_name': 'authenticate', 
             'fb_api_caller_class': 'com.facebook.account.login.protocol.Fb4aAuthHandler', 
