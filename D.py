@@ -386,17 +386,17 @@ logo = ("""\033[1;32m
 \033[1;33m║║║║║║╔╗║╔╬╣╔╗║╔╗║
 \033[1;33m║║║║║║╔╗║║║║║║║╔╗║
 \033[1;33m╚╝╚╝╚╩╝╚╩╝╚╩╝╚╩╝╚╝
-\033[1;32mIF YOU DIDN'T KNOW ABOUT MARINA THAT YOU ARE ALSO LIKE CHILD
-\033[;33mCREATER CYBER SECURITY EXPERT KIRAN EVERYBODY CALL ME KAMINI.
-\033[;32mPAID TOOL BUT FREE FOR MY LOYAL FRIENDS🥰😘TOOL FULL WORKING
+\033[1;94mIF YOU DIDN'T KNOW ABOUT MARINA THAT YOU ARE ALSO LIKE CHILD
+\033[;94mCREATER CYBER SECURITY EXPERT KIRAN EVERYBODY CALL ME KAMINI.
+\033[;94mPAID TOOL BUT FREE FOR MY LOYAL FRIENDS🥰😘TOOL FULL WORKING
         
  
-••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
-  \033[1;32mAuther  : MARINA x KIRAN
-  \033[1;33mYouTube : MARINA TRICKER
-  \033[1;32mFecbook : MARINA  QUEEN
-   \033[1;33m Admin. : ZOYA  x MUSKAN x SAIRA
-••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;32m""")
+••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;94m
+  \033[1;94mAuther  : MARINA x KIRAN
+  \033[1;94mYouTube : MARINA TRICKER
+  \033[1;94mFecbook : MARINA  QUEEN
+   \033[1;94m Admin. : ZOYA  x MUSKAN x SAIRA
+••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;94m""")
 
 class Main:
 	def __init__(self):
