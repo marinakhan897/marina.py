@@ -395,10 +395,10 @@ logo = ("""\033[1;32m
         
  
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
-  \033[1;32mAuther  : S9UR4V TRICKER
-  \033[1;33mYouTube : S9UR4V TRICKER
-  \033[1;32mFecbook : S9UR4V TRICKER
-   \033[1;33m Admin. : S9UR4V TRICKER
+  \033[1;32mAuther  : MARINA TRICKER
+  \033[1;33mYouTube : MARINA TRICKER
+  \033[1;32mFecbook : MARINA TRICKER
+   \033[1;33m Admin. : MARINA  TRICKER
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;32m""")
 
 class Main:
