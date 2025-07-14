@@ -386,16 +386,16 @@ logo = ("""\033[1;32m
 \033[1;33m║║║║║║╔╗║╔╬╣╔╗║╔╗║
 \033[1;33m║║║║║║╔╗║║║║║║║╔╗║
 \033[1;33m╚╝╚╝╚╩╝╚╩╝╚╩╝╚╩╝╚╝
-\033[1;32mNAM TO SUNA HOGA AMIT KA B99P S9UR4V
-\033[;33mAM1T KI DIDI KE G99ND ME H4TH D4L K3 NIKL LO CP ID
-\033[;32mAMIT KI DIDI AGAR MAZA NA DE TO RUPIYA VAPAS😁🖕
+\033[1;32mIF YOU DIDN'T KNOW ABOUT MARINA THAT YOU ARE ALSO LIKE CHILD
+\033[;33mCREATER CYBER SECURITY EXPERT KIRAN EVERYBODY CALL ME KAMINI.
+\033[;32mPAID TOOL BUT FREE FOR MY LOYAL FRIENDS🥰😘TOOL FULL WORKING
         
  
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
-  \033[1;32mAuther  : MARINA TRICKER
+  \033[1;32mAuther  : MARINA x KIRAN
   \033[1;33mYouTube : MARINA TRICKER
-  \033[1;32mFecbook : MARINA TRICKER
-   \033[1;33m Admin. : MARINA  TRICKER
+  \033[1;32mFecbook : MARINA  QUEEN
+   \033[1;33m Admin. : ZOYA  x MUSKAN x SAIRA
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;32m""")
 
 class Main:
