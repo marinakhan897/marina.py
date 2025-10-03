@@ -606,7 +606,7 @@ def line():print(f'\r\n\33[38;5;37m━━━━━━━━━━━━━━━
 os.system('clear')
 logo ="""\033[1;37mWELCOME TO MARINA COMMAND
 
-\033[1;30m
+\033[1;93m
    ｡ﾟﾟ･｡･ﾟﾟ｡
 　　 ﾟ。　　｡ﾟ
 　　　 ﾟ･｡･ﾟ
@@ -618,7 +618,7 @@ logo ="""\033[1;37mWELCOME TO MARINA COMMAND
 　 ╭ ͡　╲　　╲　　ﾉ
 ╭ ͡　╲　　╲
               \033[1;39mMARINA \033[1;35mKHAN \033[1;36m🩷🪽
-\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
+\033[0;94m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
               
   __  __ _   _          
  |  \/  | \ | |   /\    
@@ -629,12 +629,12 @@ logo ="""\033[1;37mWELCOME TO MARINA COMMAND
                         
  
 \033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●\033[1;37m๑۩♡۩๑\033[0;95m●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-\033[1;39m━▷ \033[0;91mAUTHER    \033[1;39m◈✙◈\033[1;33mJAN x JAN
-\033[1;39m━▷ \033[0;91m𝙊𝙒𝙉𝙀𝙍    \033[1;39m◈✙◈\033[1;33m MARINA x KIRAN
-\033[1;39m━▷ \033[0;91m𝙏𝙀𝘼𝙈     \033[1;39m◈✙◈\033[1;31mOWNER OF RTC KIRAN
-\033[1;39m━▷ \033[0;91m𝙔𝙊𝙐𝙏𝙐𝘽𝙀  \033[1;39m◈✙◈ \033[1;32mKIRAN TRICKER
-\033[1;39m━▷ \033[0;91m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆 \033[1;39m◈✙◈ \033[1;33mBRANDEN KAMININ
-\033[1;39m━▷ \033[0;91m𝙁𝘽 𝙂𝙍𝙊𝙐𝙋 \033[1;39m◈✙◈ \033[1;34mFB KI SHAHEZADI
+\033[1;39m━▷ \033[0;91mAUTHER    \033[1;39m◈✙◈\033[1;33mZOYA X MARINA
+\033[1;39m━▷ \033[0;91m𝙊𝙒𝙉𝙀𝙍    \033[1;39m◈✙◈\033[1;33mZOYA X MARINA
+\033[1;39m━▷ \033[0;91m𝙏𝙀𝘼𝙈     \033[1;39m◈✙◈\033[1;31mOWNER OF RTC MARINA
+\033[1;39m━▷ \033[0;91m𝙔𝙊𝙐𝙏𝙐𝘽𝙀  \033[1;39m◈✙◈ \033[1;32mZOYA KHAN
+\033[1;39m━▷ \033[0;91m𝙁𝘼𝘾𝙀𝘽𝙊𝙊𝙆 \033[1;39m◈✙◈ \033[1;33mZOYA KHANI
+\033[1;39m━▷ \033[0;91m𝙁𝘽 𝙂𝙍𝙊𝙐𝙋 \033[1;39m◈✙◈ \033[1;34mFB KI SHAHEZADI 
 \033[1;39m━▷ \033[0;91m𝙎𝘼𝙏𝙐𝙏𝘼𝙎  \033[1;39m◈✙◈ \033[0;92mFREE AND ENJOY
 \033[1;39m━▷ \033[0;91m𝙑𝙀𝙍𝙎𝙄𝙊𝙉  \033[1;39m◈✙◈ \033[1;37m8.9
 \033[1;39m━▷ \033[1;36mOWNER OFFLINE EROR SOLVER
@@ -663,11 +663,11 @@ def main():
 			os.system("xdg-open https://chat.whatsapp.com/HBBWmgTmpNl7OvG2MCpQtR")
 			exit()
 	elif baloch in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/gamerqueen3633")
+			os.system("xdg-openhttps://www.facebook.com/DR.SIDRA.SHAH90")
 			print("")
 			time.sleep(2.0)
-			print("\033[1;37m    Type Your ID NAME Name")
-			input("\n\033[1;32m  Type Name \033[1;34m━━>  \033[1;33m")
+			print("\033[1;37mTYPE THE OWNER ID NAME NAME")
+			input("\n\033[1;32mType Name \033[1;34m━━>  \033[1;33m")
 			time.sleep(2.1)
 			print("")
 			print("\033[1;37m Successful ")
@@ -1019,3 +1019,4 @@ def login4(uid):
         loop+=1
     except Exception as e:time.sleep(30)
 main()
+
